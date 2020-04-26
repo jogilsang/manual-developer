@@ -1,4 +1,4 @@
-# manual-startup
+# manual-developer
 for me
 
 ### 개발언어
